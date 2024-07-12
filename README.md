@@ -7,7 +7,7 @@
 
 Game Link - https://vivekpathak924.github.io/Garbage-Grabber/
 
-Game Link - https://ashborn14.itch.io/garbage-grabber
+Game Link - https://vivekpathak.itch.io/garbage-grabber
 
 
 ## Description
@@ -16,7 +16,7 @@ A garbage catcher game.
 
 The controls are simple and self explanatory.
 
-Demo Video walkthrough - https://youtu.be/QEOAsYffXTA
+Demo Video walkthrough - https://www.youtube.com/watch?v=GDSCWVL8Hgs
 
 
 ## Clean City Quest
