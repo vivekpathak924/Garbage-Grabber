@@ -5,7 +5,7 @@
 
 ### Play Now
 
-Game Link - https://harshit-raj-14.github.io/Garbage-Grabber/
+Game Link - https://vivekpathak924.github.io/Garbage-Grabber/
 
 Game Link - https://ashborn14.itch.io/garbage-grabber
 
